@@ -1,0 +1,1 @@
+This project uses HTML and CSS fundamentals to create a webpage with recipes.  
