@@ -1,0 +1,24 @@
+.happy {
+    color: rgb(255,255,0);
+    background: rgb(0,0,0);
+}
+
+.water {
+    background-color: rgb(0, 217, 255);
+}
+
+.rigatoni-red {
+    background-color: rgba(161, 0, 0, 0.616);
+    color: rgb(255,255,255);
+}
+
+ul {
+    font-size: larger;
+    font-family: "Verdana", 'sans-serif';
+}
+
+.odin {
+    color: rgba(30, 255, 0, 0.781);
+    background-color: rgb(2, 136, 2);
+}
+
